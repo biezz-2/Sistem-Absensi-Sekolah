@@ -1,0 +1,7 @@
+{
+  "name": "Sistem Absensi QR Profesional",
+  "description": "A professional, real-time QR code attendance system for students and teachers, featuring role-based dashboards, geolocation verification, and reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
